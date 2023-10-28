@@ -27,5 +27,5 @@ Langkah 2:
 6. buka securitytrails.com, register
 7. copy token tersebut dan masukan ke subtoken.txt
 8. buka terminal run ```pip install discord.py requests```
-9. Run``` python lazybot.py ```
+9. Run``` python lazybot.pyc ```
 
