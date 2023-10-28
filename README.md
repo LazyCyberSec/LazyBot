@@ -1,6 +1,8 @@
 # LazyBot
 LazyBot v1 adalah bot Discord yang dikhususkan untuk membantu dalam pencarian dan identifikasi kerentanan pada website. Bot ini dirancang untuk membantu pengguna, terutama para profesional keamanan siber, dalam upaya mereka untuk menemukan masalah keamanan potensial pada website dengan berbagai fitur canggih
 
+![wepik-memphis-futuristic-electro-music-festival-youtube-banner-20230827110953aQPW(1)](https://github.com/LazyCyberSec/LazyBot/assets/51275510/f87e1220-4c0c-4ccb-9f54-bc24798d835d)
+
 ## Fitur Utama:
 ```
 SQLi Detector:
