@@ -26,6 +26,6 @@ Langkah 2:
 5. token bot pada token.txt
 6. buka securitytrails.com, register
 7. copy token tersebut dan masukan ke subtoken.txt
-8. buka terminal run ```pip install discord.py requests```
+8. buka terminal run ```pip install discord.py requests beautifulsoup4```
 9. Run``` python lazybot.pyc ```
 
