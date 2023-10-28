@@ -11,6 +11,14 @@ LazyBot v1 dilengkapi dengan detektor SQL Injection (SQLi) yang kuat. Bot ini da
 Subdomain Finder:
 Fitur Subdomain Finder di LazyBot v1 memungkinkan pengguna untuk melakukan pemindaian terhadap website guna menemukan subdomain yang mungkin terhubung dengan website tersebut. Informasi ini berguna untuk mengidentifikasi permukaan serangan yang lebih luas dan menemukan potensi kerentanan yang mungkin tersembunyi di subdomain tertentu.
 ```
+## Preview
+Subdomain Finder
+![image](https://github.com/LazyCyberSec/LazyBot/assets/51275510/c1f38604-6b5d-4572-a544-8757d5930953)
+Sql Injection
+![image](https://github.com/LazyCyberSec/LazyBot/assets/51275510/6b07452d-48b0-4868-9f34-260cfdef22f0)
+
+
+
 ## How to Install
 Langkah 1: Persiapan Awal
 Sebelum Anda mulai membuat bot Discord LazyBotV1, pastikan Anda memiliki akses ke:
